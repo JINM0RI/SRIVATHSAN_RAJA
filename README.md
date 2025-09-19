@@ -32,9 +32,9 @@ Here are some of the projects I've been working on:
 
 Here are some of the technologies and tools I'm familiar with:
 
-* **Languages:** Python
+* **Languages:** Python,MySQL,R
 * **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn
-* **Tools:** Git, GitHub, VS Code
+* **Tools:** Git, GitHub, VS Code,Jyupter,Docker,Kafka
 
 ---
 
@@ -46,8 +46,6 @@ Here are some of the technologies and tools I'm familiar with:
 </p>
 
 ---
-
-### 📫 Connect with me
 
 ### 📫 Connect with me
 
