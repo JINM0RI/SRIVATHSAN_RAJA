@@ -1,4 +1,4 @@
-# Hi there, I'm JINM0RI! 👋
+# Hi there, I'm SRIVATHSAN RAJA! 👋
 
 <img src="https://avatars.githubusercontent.com/u/148421670?v=4" alt="JINM0RI's GitHub profile picture" width="200" height="200" style="border-radius:50%">
 
@@ -32,9 +32,9 @@ Here are some of the projects I've been working on:
 
 Here are some of the technologies and tools I'm familiar with:
 
-* **Languages:** Python,MySQL,R
+* **Languages:** Python, MySQL, R
 * **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn
-* **Tools:** Git, GitHub, VS Code,Jyupter,Docker,Kafka
+* **Tools:** Git, GitHub, VS Code, Jyupter, Docker, Kafka
 
 ---
 
