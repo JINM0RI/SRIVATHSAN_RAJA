@@ -50,6 +50,6 @@ Here are some of the technologies and tools I'm familiar with:
 ### 📫 Connect with me
 
 <p align="left">
-<a href="[LINKEDIN](https://www.linkedin.com/in/srivathsan-raja/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SRIVATHSAN RAJA" height="30" width="40" /></a>
+<a href="[LINKEDIN](https://www.linkedin.com/in/srivathsan-raja/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/srivathsan-raja/)" alt="SRIVATHSAN RAJA" height="30" width="40" /></a>
 
 </p>
